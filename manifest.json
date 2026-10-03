@@ -1,0 +1,15 @@
+{
+  "name": "Mis reservas · Karolina Niño · Spa de Uñas",
+  "short_name": "Mis reservas",
+  "start_url": "panel.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6E4A8E",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "420x319",
+      "type": "image/png"
+    }
+  ]
+}
